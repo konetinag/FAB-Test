@@ -1,0 +1,61 @@
+2019-10-05 18:11:33,372 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice() Started : The cartId is 1 and customer id is {}1
+2019-10-05 18:11:33,481 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :REGULAR_CUST
+2019-10-05 18:11:33,481 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.RegularCustomerDiscount
+2019-10-05 18:11:33,485 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice(): Ened : the net payable amount is 1.3 
+2019-10-05 18:11:33,496 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice() Started : The cartId is 1 and customer id is {}1
+2019-10-05 18:11:33,497 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :AFFILIATE_CUST
+2019-10-05 18:11:33,497 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.AffiliateDiscount
+2019-10-05 18:11:33,497 INFO com.retail.processor.Discount.AffiliateDiscount [main] AffiliateDiscount- getDiscount() is get called.
+2019-10-05 18:11:33,497 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice(): Ened : the net payable amount is 1.3 
+2019-10-05 18:11:33,500 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice() Started : The cartId is 1 and customer id is {}1
+2019-10-05 18:11:33,500 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :xxxxxx
+2019-10-05 18:11:33,500 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.RegularCustomerDiscount
+2019-10-05 18:11:33,500 INFO com.retail.processor.Discount.RegularCustomerDiscount [main] RegularCustomerDiscount- getDiscount() is get called.
+2019-10-05 18:11:33,500 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice(): Ened : the net payable amount is 1.3 
+2019-10-05 18:11:33,502 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice() Started : The cartId is 1 and customer id is {}1
+2019-10-05 18:11:33,502 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :EMPLOYEE_CUST
+2019-10-05 18:11:33,503 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.EmployeeDiscount
+2019-10-05 18:11:33,503 INFO com.retail.processor.Discount.EmployeeDiscount [main] EmployeeDiscount- getDiscount() is get called.
+2019-10-05 18:11:33,503 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice(): Ened : the net payable amount is 1.3 
+2019-10-05 18:11:33,506 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice() Started : The cartId is 1 and customer id is {}1
+2019-10-05 18:11:33,506 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :REGULAR_CUST
+2019-10-05 18:11:33,506 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.RegularCustomerDiscount
+2019-10-05 18:11:33,506 INFO com.retail.processor.Discount.RegularCustomerDiscount [main] RegularCustomerDiscount- getDiscount() is get called.
+2019-10-05 18:11:33,506 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice(): Ened : the net payable amount is 1.3 
+2019-10-05 18:41:17,548 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :EMPLOYEE_CUST
+2019-10-05 18:41:17,565 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.EmployeeDiscount
+2019-10-05 18:41:17,578 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :REGULAR_CUST
+2019-10-05 18:41:17,580 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.RegularCustomerDiscount
+2019-10-05 18:41:17,583 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :AFFILIATE_CUST
+2019-10-05 18:41:17,584 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.AffiliateDiscount
+2019-10-05 18:41:17,589 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :XXXXXXXXX
+2019-10-05 18:48:00,771 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :EMPLOYEE_CUST
+2019-10-05 18:48:00,776 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.EmployeeDiscount
+2019-10-05 18:48:00,786 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :REGULAR_CUST
+2019-10-05 18:48:00,787 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.RegularCustomerDiscount
+2019-10-05 18:48:00,789 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :AFFILIATE_CUST
+2019-10-05 18:48:00,790 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.AffiliateDiscount
+2019-10-05 18:48:00,796 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :XXXXXXXXX
+2019-10-05 18:51:23,492 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice() Started : The cartId is 1 and customer id is {}1
+2019-10-05 18:51:23,514 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculateDiscount()-> Started
+2019-10-05 18:51:23,516 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :AFFILIATE_CUST
+2019-10-05 18:51:23,517 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.AffiliateDiscount
+2019-10-05 18:51:23,517 INFO com.retail.processor.Discount.AffiliateDiscount [main] AffiliateDiscount- getDiscount() is get called.
+2019-10-05 18:51:23,517 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculateDiscount()-> Ended discountonTotalBill is: 1.3 
+2019-10-05 18:51:23,519 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice(): Ened : the net payable amount is 1.3 
+2019-10-05 18:56:16,650 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice() Started : The cartId is 1 and customer id is {}1
+2019-10-05 18:59:03,352 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculateDiscount()-> Started
+2019-10-05 18:59:29,148 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :REGULAR_CUST
+2019-10-05 18:59:29,177 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.RegularCustomerDiscount
+2019-10-05 19:00:01,736 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculateDiscount()-> Relationship period is: 3 
+2019-10-05 19:00:01,737 INFO com.retail.processor.Discount.RegularCustomerDiscount [main] RegularCustomerDiscount- getDiscount() is get called.
+2019-10-05 19:00:01,737 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculateDiscount()-> Ended discountonTotalBill is: 1.3 
+2019-10-05 19:00:01,738 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice(): Ened : the net payable amount is 1.3 
+2019-10-05 19:04:31,851 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice() Started : The cartId is 1 and customer id is {}1
+2019-10-05 19:04:45,829 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculateDiscount()-> Started
+2019-10-05 19:04:47,547 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the customer Type is :REGULAR_CUST
+2019-10-05 19:04:47,568 INFO com.retail.processor.factory.DiscountFactoryImpl [main] DiscountFactoryImpl of getDiscountType() : the Discount Type is :class com.retail.processor.Discount.RegularCustomerDiscount
+2019-10-05 19:05:43,386 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculateDiscount()-> Relationship period is: 3 
+2019-10-05 19:05:43,387 INFO com.retail.processor.Discount.RegularCustomerDiscount [main] RegularCustomerDiscount- getDiscount() is get called.
+2019-10-05 19:05:43,387 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculateDiscount()-> Ended discountonTotalBill is: 1.3 
+2019-10-05 19:05:43,388 INFO com.retail.processor.service.PriceCalculatorServiceImpl [main] PriceCalculatorServiceImpl- calculatePrice(): Ened : the net payable amount is 1.3 
